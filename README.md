@@ -1,2 +1,2 @@
 # CPP-Standard-Codes
-All standard problems/dsa topics implemented in C++
+All standard problems/DSA topics implemented in C++
